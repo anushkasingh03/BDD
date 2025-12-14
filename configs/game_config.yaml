@@ -1,0 +1,13 @@
+progression:
+  chapters:
+    - Mirror Check
+    - Social Scene
+    - Recovery Vision
+points:
+  healthy_choice: 10
+  maladaptive_choice: -2
+feedback_zones:
+  strongly_negative: "I can tell this feels overwhelming. Let's slow down and breathe."
+  mildly_negative: "It sounds stressful; what evidence supports this thought?"
+  neutral: "Notice where your mind goes—can you find a balanced statement?"
+  positive: "Great adaptive thought. What helped you stay grounded?"

@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+torch
+textblob
+seaborn
+matplotlib
+scipy
+statsmodels
+pyyaml

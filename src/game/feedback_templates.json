@@ -1,0 +1,22 @@
+{
+  "strongly_negative": {
+    "label": "Strongly Negative Self-Talk",
+    "message": "I can tell this feels intense. Let's slow the moment down and check the facts.",
+    "skills": ["paced breathing", "evidence log"]
+  },
+  "mildly_negative": {
+    "label": "Mild Negative / Anxious",
+    "message": "It sounds stressful. What evidence supports this thought, and what's an alternative?",
+    "skills": ["thought balancing", "values check"]
+  },
+  "neutral": {
+    "label": "Neutral / Mixed",
+    "message": "Notice both the harsh and balanced parts of that thought. Which one helps you move toward your values?",
+    "skills": ["cognitive defusion"]
+  },
+  "positive": {
+    "label": "Adaptive",
+    "message": "Great job catching a flexible thought—what helped you stay grounded?",
+    "skills": ["behavioral activation"]
+  }
+}

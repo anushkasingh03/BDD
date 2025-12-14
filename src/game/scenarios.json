@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mirror_party",
+    "title": "Mirror Before Party",
+    "prompt": "You catch your reflection before heading to a party. What runs through your mind?",
+    "cbt_tags": ["catastrophizing", "all-or-nothing"],
+    "choices": [
+      {"id": "avoid", "text": "Cancel the party", "health": 0},
+      {"id": "ritual", "text": "Change outfits repeatedly", "health": 0},
+      {"id": "approach", "text": "Message a friend and go anyway", "health": 1}
+    ]
+  },
+  {
+    "id": "social_media",
+    "title": "Late-night Social Scroll",
+    "prompt": "You're scrolling past filtered photos and start to compare. Share your thought.",
+    "cbt_tags": ["mental_filtering"],
+    "choices": [
+      {"id": "doomscroll", "text": "Keep scrolling", "health": 0},
+      {"id": "reframe", "text": "Remind yourself feeds are curated", "health": 1}
+    ]
+  }
+]
